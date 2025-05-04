@@ -1,0 +1,28 @@
+name: Generate Sitemap
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Generate sitemap
+        uses: cicirello/generate-sitemap@v1
+        with:
+          base-url-path: 'https://inspiressocoffee.github.io/inspiresso-coffee'
+          output-file: 'sitemap.xml'
+
+      - name: Commit and push sitemap
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add sitemap.xml
+          git commit -m 'Generate sitemap.xml'
+          git push
