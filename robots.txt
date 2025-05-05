@@ -1,10 +1,14 @@
 # robots.txt untuk Inspiresso Coffee
 User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://inspiresso-coffee.com/sitemap.xml
+
+# Halaman yang dioptimalkan untuk SEO
+Allow: /
 Allow: /about
 Allow: /products
 Allow: /menu
 Allow: /gallery
 Allow: /contact
-
-# Sitemap
-Sitemap: https://inspiressocoffee.github.io/inspiresso-coffee/sitemap.xml

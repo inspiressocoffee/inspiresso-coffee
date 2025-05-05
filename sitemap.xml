@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://inspiressocoffee.github.io/inspiresso-coffee/</loc>
+    <loc>https://inspiresso-coffee.com/</loc>
     <lastmod>2025-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://inspiressocoffee.github.io/inspiresso-coffee/about</loc>
+    <loc>https://inspiresso-coffee.com/about</loc>
     <lastmod>2025-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://inspiressocoffee.github.io/inspiresso-coffee/products</loc>
+    <loc>https://inspiresso-coffee.com/products</loc>
     <lastmod>2025-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://inspiressocoffee.github.io/inspiresso-coffee/menu</loc>
+    <loc>https://inspiresso-coffee.com/menu</loc>
     <lastmod>2025-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://inspiressocoffee.github.io/inspiresso-coffee/gallery</loc>
+    <loc>https://inspiresso-coffee.com/gallery</loc>
     <lastmod>2025-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://inspiressocoffee.github.io/inspiresso-coffee/contact</loc>
+    <loc>https://inspiresso-coffee.com/contact</loc>
     <lastmod>2025-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
